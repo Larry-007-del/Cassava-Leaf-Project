@@ -1,0 +1,9 @@
+tensorflow==2.4.1
+starlette
+uvicorn
+python-multipart
+aiofiles
+aiohttp
+jinja2
+numpy
+pillow
